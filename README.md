@@ -28,7 +28,7 @@ The analysis identified a high-confidence flux anomaly in Image B relative to th
 *Figure 1: High-contrast extraction of the Q2237+030 system. Note the significant demagnification of Image B (top right) compared to the expected symmetry of the cross structure.*
 
 ## 4. Physical Interpretation
-The detected **-61.8% demagnification** of Image B cannot be explained by smooth dark matter models. The magnitude and scale of the anomaly are consistent with diffractive scattering by a ~1.6 kpc solitonic core, as predicted by the v7.0 Superfluid Dark Matter specification.
+The detected **-61.8% demagnification** of Image B cannot be explained by smooth dark matter models. The magnitude and scale of the anomaly are consistent with diffractive scattering by a ~1.6 kpc solitonic core, as predicted by the **Gravitational Phase Transition model**.
 
 ---
 **Confidentiality:** This report contains preliminary results from an active research pipeline. Methodology details and code are withheld pending publication.
