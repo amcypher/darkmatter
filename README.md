@@ -24,7 +24,7 @@ The analysis identified a high-confidence flux anomaly in Image B relative to th
 | **Status** | 🚨 **SIGNAL DETECTED** |
 
 ### Visual Confirmation
-![Lensed Quasar Flux Anomaly](../dark_matter_anomaly.png)
+![Lensed Quasar Flux Anomaly](dark_matter_anomaly.png)
 *Figure 1: High-contrast extraction of the Q2237+030 system. Note the significant demagnification of Image B (top right) compared to the expected symmetry of the cross structure.*
 
 ## 4. Physical Interpretation
